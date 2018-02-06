@@ -22,4 +22,9 @@ body{
 .navbar {
 	background-color: #373737;
 	color: #f8f8f8 ;
+	margin-bottom: 1px;
+}
+.impresion{
+	padding-top: 1%;
+	text-align: right;
 }
