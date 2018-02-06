@@ -5,6 +5,7 @@
 
 
 .content  {
+	background-color: white;
 	margin-top: 5px;
 	padding-top: 1%;
 	padding-bottom: 2%;
@@ -15,6 +16,7 @@
 
 }
 body{
+	background-color: #f1e2e2;
 	font-weight: 340;
 }
 .navbar {
